@@ -1,6 +1,6 @@
 Exercício
 
-Implemente o somador mostrado na figura ao lado em JavaScript. 
+Implemente o somador mostrado na figura a baixo em JavaScript. 
 
 <img src="exe.png" alt="fotos"/>
 
