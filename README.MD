@@ -22,6 +22,10 @@ Quando ao botão, é preciso que no seu evento ONCLICK, ele chame uma função c
 de recuperar os dois valores e colocar sua soma na terceira caixa de texto.
 
 
+Quando ao botão, é preciso que no seu evento ONCLICK, ele chame uma função capaz
+de recuperar os dois valores e colocar sua soma na terceira caixa de texto.
+
+
 Exercício Resolvido >>>
 
 <img src="resolvido.png" alt="fotos"/>
